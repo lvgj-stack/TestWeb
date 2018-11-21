@@ -1,0 +1,9 @@
+主页面为MainFramest 点这个进去就OK
+登录用户名为lgj 密码为B16090210
+用户名和密码错误 点击登录按钮表单的摇晃效果
+百度地图页面为middle_right1
+脑电波形页面为middle_right2
+登陆页面为middle_left
+紧急救护为bottom
+没有设计登陆成功的页面
+没有设计数据库
